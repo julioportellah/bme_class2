@@ -5,6 +5,8 @@ WHat do I want in my database:
 Name
 Blood Type
 Address
+Gender
 Donor Center
+Last Donation by year
 New Random Info
 
