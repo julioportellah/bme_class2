@@ -1,0 +1,5 @@
+
+TO print to the console in C#, the command is:
+
+console.WriteLine("Hello");
+
